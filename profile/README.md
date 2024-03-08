@@ -10,10 +10,6 @@
 	<a href="https://mindsdb.com/joincommunity">Community Slack</a>
 	<span> | </span>
 	<a href="https://github.com/mindsdb/mindsdb/projects?type=classic">Contribute</a>
-	<span> | </span>
-	<a href="https://cloud.mindsdb.com?utm_medium=community&utm_source=github&utm_campaign=mindsdb%20repo">Demo</a>
-	<span> | </span>
-	<a href="https://mindsdb.com/hackerminds-ai-app-challenge">Hackathon</a>
 </h3>
 
 <img width="1089" alt="image" src="https://github.com/mindsdb/mindsdb/assets/5898506/5451fe7e-a854-4c53-b34b-769b6c7c9863">
@@ -21,15 +17,15 @@
 </br>
 </br>
 
-Welcome to the MindsDB GitHub organization! MindsDB is committed to democratizing machine learning, making it as easy as SQL for developers and businesses worldwide.
+Welcome to the MindsDB GitHub organization! We believe AI will make every organization smarter. We work to empower developers to reliably use enterprise data to customize AI for their needs.
 
 
 ## 🌟 Projects
 
-* [MindsDB](https://github.com/mindsdb/mindsdb):  MindsDB connects AI models to databases. Check it out!
-* [LightWood](https://github.com/mindsdb/lightwood): Lightwood is an AutoML framework that enables you to generate and customize machine learning pipelines
-* [MindsDB Type Infer](https://github.com/mindsdb/type_infer): Automated type inference for Machine Learning pipelines.
-* [MindsDB Forecast Visualizer](https://github.com/mindsdb/mindsdb_forecast_visualizer): Open-source charting library to help you visualize MindsDB forecasts
+* [MindsDB](https://github.com/mindsdb/mindsdb):  The platform to create, serve, fine-tune AI models in real time from your database, vector store, and application data.
+* [LightWood](https://github.com/mindsdb/lightwood): An AutoML framework to build machine learning pipelines in a declarative way.
+* [MindsDB Type Infer](https://github.com/mindsdb/type_infer): A Python package to automatically infer data types in tabular data.
+* [MindsDB Forecast Visualizer](https://github.com/mindsdb/mindsdb_forecast_visualizer):  A library to help you visualize time-series forecasts.
 
 ## 🤝 Contribute
 
