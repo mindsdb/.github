@@ -31,7 +31,7 @@ Welcome to the MindsDB GitHub organization! We believe AI will make every organi
 
 We're an open-source-loving community, and contributions are always welcome! Whether it's by fixing bugs, enhancing documentation, proposing new features, or spreading the word, every contribution counts.
 
-🧑‍💻 See [CONTRIBUTING.md](https://github.com/mindsdb/mindsdb/blob/staging/CONTRIBUTING.md) for guidelines.
+🧑‍💻 See [CONTRIBUTING.md](https://github.com/mindsdb/mindsdb/blob/main/CONTRIBUTING.md) for guidelines.
 
 💚 Look for issues labeled [good first issue](https://github.com/mindsdb/mindsdb/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22) or [help-wanted](https://github.com/mindsdb/mindsdb/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22) to start your journey.
 
