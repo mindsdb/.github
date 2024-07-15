@@ -25,7 +25,6 @@ Welcome to the MindsDB GitHub organization! We believe AI will make every organi
 * [MindsDB](https://github.com/mindsdb/mindsdb):  The platform to create, serve, fine-tune AI models in real time from your database, vector store, and application data.
 * [LightWood](https://github.com/mindsdb/lightwood): An AutoML framework to build machine learning pipelines in a declarative way.
 * [MindsDB Type Infer](https://github.com/mindsdb/type_infer): A Python package to automatically infer data types in tabular data.
-* [MindsDB Forecast Visualizer](https://github.com/mindsdb/mindsdb_forecast_visualizer):  A library to help you visualize time-series forecasts.
 
 ## 🤝 Contribute
 
