@@ -44,4 +44,4 @@ We're an open-source-loving community, and contributions are always welcome! Whe
 
 ## 💌 Contact
 
-👋 For partnership, sponsorship, or media inquiries, please contact us at hello@mindsdb.com.
+👋 For any information, please contact us at hello@mindsdb.com.
