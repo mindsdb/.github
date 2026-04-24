@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to MindsDB 👋</h1>
 
 <div align="center">
-Business intelligence that doesn't just answer — it acts.
+MindsDB is a public benefit corporation dedicated to democratizing access to frontier Artificial Intelligence.
 </div>
 
 <h3 align="center">
@@ -14,11 +14,7 @@ Business intelligence that doesn't just answer — it acts.
   <a href="https://mindsdb.com/contact?utm_medium=community&utm_source=github&utm_campaign=mindsdb%20repo">Contact</a>
 </h3>
 
-<div align="center">
-  <a href="https://github.com/mindsdb/anton" target="_blank">
-    <img src="https://github.com/mindsdb/anton/blob/main/assets/anton-diagram.png" alt="MindsDB Demo" width="80%">
-  </a>
-</div>
+
 
 ## Getting started
 New here? Start with **[MindsDB Anton](https://github.com/mindsdb/anton)**.  
@@ -27,18 +23,8 @@ Want a working demo? See the **[onboarding guide](https://docs.mdb.ai/docs/anton
 ## Our repositories
 
 ### Core
-- 🌟 **[MindsDB Anton](https://github.com/mindsdb/anton)** - autonomous BI agent and the most powerful AI coworker
-- [MindsDB Query Engine](https://github.com/mindsdb/mindsdb) - data query engine for AI agents and LLMs.
-
-### Clients / SDKs
-- **[MindsDB QE Docker Extension](https://github.com/mindsdb/mindsdb-docker-extension)** — Use MindsDB inside Docker Desktop.
-- **[MindsDB QE JavaScript SDK](https://github.com/mindsdb/mindsdb-js-sdk)** — Official JavaScript SDK for MindsDB.
-- **[MindsDB QE Python SDK](https://github.com/mindsdb/mindsdb_python_sdk)** — Official Python SDK for MindsDB Server.
-- **[Minds QE Python SDK](https://github.com/mindsdb/minds_python_sdk)** — Official Python SDK for Minds.
-- **[Minds QE MCP](https://github.com/mindsdb/minds-mcp)** — MCP server for Minds.
-
-### Extensions & Utilities
-- **[AIPDF](https://github.com/mindsdb/aipdf)** — OCR PDFs using generative AI models.
+- 🌟 **[MindsDB Anton](https://github.com/mindsdb/anton)** - A self-improving AI coworker you can hand off any task to. An open, powerful alternative to Claude-Cowork.
+- [MindsDB Query Engine](https://github.com/mindsdb/mindsdb) - A secure data vault and query engine for AI agents and LLMs.
 
 
 ## Contributing
